@@ -1,0 +1,21 @@
+{
+  "name": "create_octo_pull",
+  "version": "1.0.0",
+  "description": "Small example repository on how to create a PR using the Octokit Rest API..",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "octokit",
+    "example",
+  ],
+  "author": "Rick Staa",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/rest": "^19.0.7",
+    "dotenv": "^16.0.3",
+    "octokit": "^2.0.14"
+  }
+}
